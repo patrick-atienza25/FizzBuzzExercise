@@ -1,0 +1,15 @@
+C:\Users\tange\repos\FizzBuzzExercise\FizzBuzzeExercise\obj\Debug\net6.0\FizzBuzzeExercise.csproj.AssemblyReference.cache
+C:\Users\tange\repos\FizzBuzzExercise\FizzBuzzeExercise\obj\Debug\net6.0\FizzBuzzeExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tange\repos\FizzBuzzExercise\FizzBuzzeExercise\obj\Debug\net6.0\FizzBuzzeExercise.AssemblyInfoInputs.cache
+C:\Users\tange\repos\FizzBuzzExercise\FizzBuzzeExercise\obj\Debug\net6.0\FizzBuzzeExercise.AssemblyInfo.cs
+C:\Users\tange\repos\FizzBuzzExercise\FizzBuzzeExercise\obj\Debug\net6.0\FizzBuzzeExercise.csproj.CoreCompileInputs.cache
+C:\Users\tange\repos\FizzBuzzExercise\FizzBuzzeExercise\bin\Debug\net6.0\FizzBuzzeExercise.exe
+C:\Users\tange\repos\FizzBuzzExercise\FizzBuzzeExercise\bin\Debug\net6.0\FizzBuzzeExercise.deps.json
+C:\Users\tange\repos\FizzBuzzExercise\FizzBuzzeExercise\bin\Debug\net6.0\FizzBuzzeExercise.runtimeconfig.json
+C:\Users\tange\repos\FizzBuzzExercise\FizzBuzzeExercise\bin\Debug\net6.0\FizzBuzzeExercise.dll
+C:\Users\tange\repos\FizzBuzzExercise\FizzBuzzeExercise\bin\Debug\net6.0\FizzBuzzeExercise.pdb
+C:\Users\tange\repos\FizzBuzzExercise\FizzBuzzeExercise\obj\Debug\net6.0\FizzBuzzeExercise.dll
+C:\Users\tange\repos\FizzBuzzExercise\FizzBuzzeExercise\obj\Debug\net6.0\refint\FizzBuzzeExercise.dll
+C:\Users\tange\repos\FizzBuzzExercise\FizzBuzzeExercise\obj\Debug\net6.0\FizzBuzzeExercise.pdb
+C:\Users\tange\repos\FizzBuzzExercise\FizzBuzzeExercise\obj\Debug\net6.0\FizzBuzzeExercise.genruntimeconfig.cache
+C:\Users\tange\repos\FizzBuzzExercise\FizzBuzzeExercise\obj\Debug\net6.0\ref\FizzBuzzeExercise.dll
